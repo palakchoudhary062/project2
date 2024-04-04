@@ -10,11 +10,11 @@ Excel Export: Saves the scraped book details into an Excel file for further anal
 
 ## Requirements
 
-- 1.Python 3.x
-- 2.openpyxl
-- 3.requests
-- 4.BeautifulSoup
-- 5.lxml
+- Python 3.x
+- openpyxl
+- requests
+- BeautifulSoup
+- lxml
 
 ## Usage
 
